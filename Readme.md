@@ -1,7 +1,11 @@
 # Личный проект «Седона»
 
 * Студент: [Nina Medvedeva](https://up.htmlacademy.ru/htmlcss/30/user/1705219).
+<<<<<<< Updated upstream
 * Наставник: [katemikulyanec].(https://htmlacademy.ru/profile/id50166)
+=======
+* Наставник: `Катя Микулянец`.(https://htmlacademy.ru/profile/id50166)
+>>>>>>> Stashed changes
 
 ---
 
