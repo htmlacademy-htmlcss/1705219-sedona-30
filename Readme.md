@@ -2,7 +2,7 @@
 
 * Студент: [Nina Medvedeva](https://up.htmlacademy.ru/htmlcss/30/user/1705219).
 <<<<<<< Updated upstream
-* Наставник: [Катя Микулянец].(https://htmlacademy.ru/profile/id50166)
+* Наставник: [Владислав Токарев].(https://htmlacademy.ru/profile/id230106)
 =======
 
 ---
