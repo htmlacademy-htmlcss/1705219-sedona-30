@@ -17,14 +17,40 @@
             <a href="blank.html">Вход</a>
          </nav>
       </header>
-       <form action="https://echo.htmlacademy.ru/courses" method="get">
-  <input type="text" name="search">
-</form>
-       
-       
-       
-       
-       
+       <section>
+    
+    <form method="get" action="https://echo.htmlacademy.ru">
+      <fieldset>
+        <legend>Инфраструктура:</legend>
+          <ul>
+              <li><input type="checkbox" name="pool" id="filter-pool" checked>
+                  <label for="filter-pool">Бассейн</label>
+              </li>
+              <li><input type="checkbox" name="parc" id="filter-park">
+                  <label for="filter-park">Парковка</label>
+              </li>
+              <li><input type="checkbox" name="wifi" id="filter-wifi">
+                  <label for="filter-wifi">Wi-Fi</label>
+              </li>
+          </ul>
+        </fieldset>
+      <fieldset>
+        <legend>Тип жилья:</legend>
+          <ul>
+              <li><input type="checkbox" name="guesthouse" id="filter-guesthouse" checked>
+                  <label for="filter-pguesthouse">Гостиница</label>
+              </li>
+              <li><input type="checkbox" name="hotel" id="filter-hotel" checked>
+                  <label for="filter-hotel">Мотель</label>
+              </li>
+              <li><input type="checkbox" name="apart" id="filter-apart" checked>
+                  <label for="filter-apart">Апартаменты</label>
+              </li>
+          </ul>
+      </fieldset>
+      <button type="submit">Показать</button>
+    </form>
+  </section>
        <footer>
          <section>
             <p>#visitSEDONA</p>
